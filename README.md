@@ -13,9 +13,9 @@ Download docks.sh and save it at: /usr/local/bin/
 chmod +x /usr/local/bin/docks.sh
 ```
 
-**Step 3:**
-Default presets_path location is at: /Library/Preferences/DockPresets
-To create this folder use:
+**Step 3:**\
+> Default presets_path location is at: /Users/your-username/Library/Preferences/DockPresets\
+Create this folder using command below:
 ```
 mkdir /Users/$(whoami)/Library/Preferences/DockPresets
 ```
