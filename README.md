@@ -1,4 +1,4 @@
-# Docks
+# docks-sh
 ## MacOS Dock utility to manage dock presets.
 
 **Step 1:** create /usr/local/bin directory
